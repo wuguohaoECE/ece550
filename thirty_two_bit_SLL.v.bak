@@ -1,0 +1,21 @@
+module thirty_two_bit_SLL(data_operandA, ctrl_shiftamt, data_result);
+input [31:0] data_operandA;
+input [4:0] ctrl_shiftamt;
+output [31:0] data_result;
+output isNotEqual, isLessThan, overflow;
+
+wire isAdd, isSubtract,cout;
+wire [31:0] add_result, sub_result, AND_result, OR_result, SRA_result, SLL_result;
+wire [31:0] data_operandA_1, data_operandA_2;
+wire [31:0] data_operandA_1_out, data_operandA_2_out;
+
+data_operandA_1[31] = 1'b0;
+data_operandA_1[30:0] = data_operandA[31:1];
+thirty_two_bit_two_one_mux(data_operandA, data_operandA_1,ctrl_shiftamt[0], data_operandA_1_out);
+
+data_operandA_2[31:30] = 2'b00;
+data_operandA_2[29:0] = data_operandA_1[31:2];
+thirty_two_bit_two_one_mux(data_operandA_1, data_operandA_2,ctrl_shiftamt[1], data_operandA_2_out);
+
+
+endmodule

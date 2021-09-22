@@ -1,0 +1,21 @@
+module five_bit_multiplier_tb();
+	 parameter SIZE = 4;
+    reg [4:0] A, B;
+	 wire [10:0] product;
+	 reg [10:0] i,j;
+    four_bit_RCA five_bit_multiplier(A, B,product);
+
+    initial begin
+		$monitor("A = %b, B = %b, product = %b", A,B,product);
+		for (i=0; i<10'b1111111111; i=i+1) 
+		begin
+			for (j=0; j<10'b1111111111; j=j+1) 
+			begin
+				A = i;
+				B = j;
+				
+				#10;
+			end
+		end
+    end
+endmodule

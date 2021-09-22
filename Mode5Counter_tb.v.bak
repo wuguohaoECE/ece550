@@ -1,0 +1,27 @@
+
+module Mode5Counter_tb();
+	 parameter SIZE = 4;
+    reg clk,reset,level,clock;
+	 wire Mealy_tick;
+    Mode5Counter Mode5Counter(clock, reset, level, Mealy_tick);
+
+    initial
+
+    begin
+        $display($time, " << Starting the Simulation >>");
+        clock = 1'b0;    // at time 0
+		  reset = 1'b0;
+		  level = 1'b1;
+		  #50
+		  reset = 1'b1;
+		  #30
+		  reset = 1'b0;
+		  #300
+        $stop;
+    end	 
+	 
+    // Clock generator
+    always
+         #10     clock = ~clock;
+			
+endmodule

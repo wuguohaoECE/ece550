@@ -1,0 +1,15 @@
+module eight_bit_RCA(A, B, sum, cin, cout);
+	
+	parameter SIZE = 8;
+	
+	input [SIZE-1:0] A, B;
+	output [SIZE-1:0] sum;
+	input cin;
+	output cout;
+	wire temp;
+	
+	four_bit_RCA(A[0:3], B[0:3], sum[0:3], cin, temp);
+	four_bit_RCA(A[4:7], B[4:7], sum[4:7], temp, cout);
+	
+
+endmodule

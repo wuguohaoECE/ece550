@@ -1,0 +1,25 @@
+module sixteen_bit_splitter(in, out);
+
+	parameter SIZE = 16;
+	input in;
+	
+	
+	output [0:SIZE-1] Out;
+	Out[0] = in;
+	Out[1] = in;
+	Out[2] = in;
+	Out[3] = in;
+	Out[4] = in;
+	Out[5] = in;
+	Out[6] = in;
+	Out[7] = in;
+	Out[8] = in;
+	Out[9] = in;
+	Out[10] = in;
+	Out[11] = in;
+	Out[12] = in;
+	Out[13] = in;
+	Out[14] = in;
+	Out[15] = in;
+
+endmodule

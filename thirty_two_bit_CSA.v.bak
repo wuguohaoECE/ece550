@@ -1,0 +1,21 @@
+module thirty_two_bit_CSA(A, B, sum, cin, cout);
+	
+	parameter SIZE = 32;
+	parameter BIT = SIZE/2;
+	
+	input [0:SIZE-1] A, B;
+	output [0:SIZE-1] sum;
+	input cin;
+	output cout;
+	wire [0:BIT-1] potential_high_1, potential_high_2;
+	wire temp1, temp2;
+	
+	sixteen_bit_RCA(A[0:BIT-1], B[0:BIT-1], sum[0:BIT-1], cin, temp);
+	
+	sixteen_bit_RCA(A[BIT:SIZE-1], B[BIT:SIZE-1], potential_high_1, 1, temp1);
+	sixteen_bit_RCA(A[BIT:SIZE-1], B[BIT:SIZE-1], potential_high_1, 0, temp2);
+	
+	
+	
+
+endmodule
