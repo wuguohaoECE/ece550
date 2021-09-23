@@ -18,5 +18,5 @@ Sim dir               :  simulation\modelsim
 
 Info: Starting NativeLink simulation with ModelSim-Altera software
 Sourced NativeLink script c:/altera_lite/16.0/quartus/common/tcl/internal/nativelink/modelsim.tcl
-Warning: File full_adder_run_msim_rtl_verilog.do already exists - backing up current file as full_adder_run_msim_rtl_verilog.do.bak11
+Warning: File full_adder_run_msim_rtl_verilog.do already exists - backing up current file as full_adder_run_msim_rtl_verilog.do.bak
 Info: Spawning ModelSim-Altera Simulation software 

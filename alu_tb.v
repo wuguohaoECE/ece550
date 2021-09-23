@@ -42,13 +42,13 @@ module alu_tb();
 		  //checkthirty_two_bit_CSA();
         checkOr();
         checkAnd();
-        checkAdd();
-        checkSub();
+        //checkAdd();
+        //checkSub();
         checkSLL();
         checkSRA();
 
-        //checkNE();
-        //checkLT();
+        checkNE();
+        checkLT();
         checkOverflow();
 
         if(errors == 0) begin

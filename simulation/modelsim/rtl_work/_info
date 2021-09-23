@@ -1,0 +1,415 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Guoha/Documents/ece550/project/ece550/simulation/modelsim
+valu
+Z1 !s110 1632355376
+!i10b 1
+!s100 =Kz1nLaZ`ZIHbT:JB8B@W1
+IU]S>Q^3kXHM[F>dAT`B_Q1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1632246588
+8C:/Users/Guoha/Documents/ece550/project/ece550/alu.v
+FC:/Users/Guoha/Documents/ece550/project/ece550/alu.v
+L0 1
+Z3 OV;L;10.4d;61
+r1
+!s85 0
+31
+Z4 !s108 1632355376.000000
+!s107 C:/Users/Guoha/Documents/ece550/project/ece550/alu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Guoha/Documents/ece550/project/ece550|C:/Users/Guoha/Documents/ece550/project/ece550/alu.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+C:/Users/Guoha/Documents/ece550/project/ece550
+valu_tb
+Z7 !s110 1632355377
+!i10b 1
+!s100 ?E]T<;:;T<z4FEG7Wi^]a2
+I1[cG1CY_EY^Z<k>dW8g5j2
+R2
+R0
+w1632355362
+8C:/Users/Guoha/Documents/ece550/project/ece550/alu_tb.v
+FC:/Users/Guoha/Documents/ece550/project/ece550/alu_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+Z8 !s108 1632355377.000000
+!s107 C:/Users/Guoha/Documents/ece550/project/ece550/alu_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Guoha/Documents/ece550/project/ece550|C:/Users/Guoha/Documents/ece550/project/ece550/alu_tb.v|
+!i113 1
+R5
+R6
+veight_bit_RCA
+Z9 !s110 1632355374
+!i10b 1
+!s100 X=6N?>79JPG=?mZKUj=]_0
+Id4iL?^?47L?kUfL0m2R>Y3
+R2
+R0
+w1632346058
+8C:/Users/Guoha/Documents/ece550/project/ece550/eight_bit_RCA.v
+FC:/Users/Guoha/Documents/ece550/project/ece550/eight_bit_RCA.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z10 !s108 1632355374.000000
+!s107 C:/Users/Guoha/Documents/ece550/project/ece550/eight_bit_RCA.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Guoha/Documents/ece550/project/ece550|C:/Users/Guoha/Documents/ece550/project/ece550/eight_bit_RCA.v|
+!i113 1
+R5
+R6
+neight_bit_@r@c@a
+vfour_bit_RCA
+R9
+!i10b 1
+!s100 bSBi;1Fo17d`Ba^Xc4ZJd3
+IDIg2Ka27Rc=`jDIzTJzoa1
+R2
+R0
+w1631679061
+8C:/Users/Guoha/Documents/ece550/project/ece550/four_bit_RCA.v
+FC:/Users/Guoha/Documents/ece550/project/ece550/four_bit_RCA.v
+L0 1
+R3
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/Guoha/Documents/ece550/project/ece550/four_bit_RCA.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Guoha/Documents/ece550/project/ece550|C:/Users/Guoha/Documents/ece550/project/ece550/four_bit_RCA.v|
+!i113 1
+R5
+R6
+nfour_bit_@r@c@a
+vfull_adder
+R9
+!i10b 1
+!s100 0kZ:bZP9aMg3]jkB@XiB;1
+IC]lXi=;zmbYRdJzGTlW3<2
+R2
+R0
+w1630687435
+8C:/Users/Guoha/Documents/ece550/project/ece550/full_adder.v
+FC:/Users/Guoha/Documents/ece550/project/ece550/full_adder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/Guoha/Documents/ece550/project/ece550/full_adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Guoha/Documents/ece550/project/ece550|C:/Users/Guoha/Documents/ece550/project/ece550/full_adder.v|
+!i113 1
+R5
+R6
+vone_bit_two_one_mux
+R1
+!i10b 1
+!s100 dbEZW1ch1;COJaQD77SWl1
+I9Y[aQ?mlmnPlSCmADAkk61
+R2
+R0
+w1631580981
+8C:/Users/Guoha/Documents/ece550/project/ece550/one_bit_two_one_mux.v
+FC:/Users/Guoha/Documents/ece550/project/ece550/one_bit_two_one_mux.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Guoha/Documents/ece550/project/ece550/one_bit_two_one_mux.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Guoha/Documents/ece550/project/ece550|C:/Users/Guoha/Documents/ece550/project/ece550/one_bit_two_one_mux.v|
+!i113 1
+R5
+R6
+vsixteen_bit_and
+Z11 !s110 1632355375
+!i10b 1
+!s100 JLSRQ6i^dG4o]VE64kXXG3
+ImHFXh9lZHP@Aj:FX<VBIg3
+R2
+R0
+w1631676166
+8C:/Users/Guoha/Documents/ece550/project/ece550/sixteen_bit_and.v
+FC:/Users/Guoha/Documents/ece550/project/ece550/sixteen_bit_and.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z12 !s108 1632355375.000000
+!s107 C:/Users/Guoha/Documents/ece550/project/ece550/sixteen_bit_and.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Guoha/Documents/ece550/project/ece550|C:/Users/Guoha/Documents/ece550/project/ece550/sixteen_bit_and.v|
+!i113 1
+R5
+R6
+vsixteen_bit_or
+R11
+!i10b 1
+!s100 [L;_1lMF7L:_<b0dSRB9H2
+Io3a[KnWN_c<mUGShagndI3
+R2
+R0
+w1631676178
+8C:/Users/Guoha/Documents/ece550/project/ece550/sixteen_bit_or.v
+FC:/Users/Guoha/Documents/ece550/project/ece550/sixteen_bit_or.v
+L0 1
+R3
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/Guoha/Documents/ece550/project/ece550/sixteen_bit_or.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Guoha/Documents/ece550/project/ece550|C:/Users/Guoha/Documents/ece550/project/ece550/sixteen_bit_or.v|
+!i113 1
+R5
+R6
+vsixteen_bit_RCA
+R9
+!i10b 1
+!s100 HDdKnUTIGT7[khEjX_^Cc0
+I9Qanbz`GUnkjXVNXU]CGz0
+R2
+R0
+w1632348957
+8C:/Users/Guoha/Documents/ece550/project/ece550/sixteen_bit_RCA.v
+FC:/Users/Guoha/Documents/ece550/project/ece550/sixteen_bit_RCA.v
+L0 1
+R3
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/Guoha/Documents/ece550/project/ece550/sixteen_bit_RCA.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Guoha/Documents/ece550/project/ece550|C:/Users/Guoha/Documents/ece550/project/ece550/sixteen_bit_RCA.v|
+!i113 1
+R5
+R6
+nsixteen_bit_@r@c@a
+vsixteen_bit_splitter
+R11
+!i10b 1
+!s100 j@L[2<W96mHX1h1F8A]AU3
+IczLAYdS8U>^::Uf3??a@I0
+R2
+R0
+w1631676141
+8C:/Users/Guoha/Documents/ece550/project/ece550/sixteen_bit_splitter.v
+FC:/Users/Guoha/Documents/ece550/project/ece550/sixteen_bit_splitter.v
+L0 1
+R3
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/Guoha/Documents/ece550/project/ece550/sixteen_bit_splitter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Guoha/Documents/ece550/project/ece550|C:/Users/Guoha/Documents/ece550/project/ece550/sixteen_bit_splitter.v|
+!i113 1
+R5
+R6
+vsixteen_bit_two_one_mux
+R11
+!i10b 1
+!s100 Y^Ah?h^@P1mN`SaR[I:Ni0
+IGUje_JD0[gOaj83jLaGQP3
+R2
+R0
+w1631676130
+8C:/Users/Guoha/Documents/ece550/project/ece550/sixteen_bit_two_one_mux.v
+FC:/Users/Guoha/Documents/ece550/project/ece550/sixteen_bit_two_one_mux.v
+L0 2
+R3
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/Guoha/Documents/ece550/project/ece550/sixteen_bit_two_one_mux.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Guoha/Documents/ece550/project/ece550|C:/Users/Guoha/Documents/ece550/project/ece550/sixteen_bit_two_one_mux.v|
+!i113 1
+R5
+R6
+vthirty_two_bit_and
+R1
+!i10b 1
+!s100 TkhG`VSnJR^XDInU:NNh71
+IQHeC5R28g9ocZQ;206:]B1
+R2
+R0
+w1631676245
+8C:/Users/Guoha/Documents/ece550/project/ece550/thirty_two_bit_and.v
+FC:/Users/Guoha/Documents/ece550/project/ece550/thirty_two_bit_and.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Guoha/Documents/ece550/project/ece550/thirty_two_bit_and.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Guoha/Documents/ece550/project/ece550|C:/Users/Guoha/Documents/ece550/project/ece550/thirty_two_bit_and.v|
+!i113 1
+R5
+R6
+vthirty_two_bit_CSA
+R11
+!i10b 1
+!s100 7N1?jU[g;4;Z_]3OnT22V3
+I7_RPRDGY?9?aeBllAWX=B0
+R2
+R0
+w1632345995
+8C:/Users/Guoha/Documents/ece550/project/ece550/thirty_two_bit_CSA.v
+FC:/Users/Guoha/Documents/ece550/project/ece550/thirty_two_bit_CSA.v
+L0 1
+R3
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/Guoha/Documents/ece550/project/ece550/thirty_two_bit_CSA.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Guoha/Documents/ece550/project/ece550|C:/Users/Guoha/Documents/ece550/project/ece550/thirty_two_bit_CSA.v|
+!i113 1
+R5
+R6
+nthirty_two_bit_@c@s@a
+vthirty_two_bit_not
+R1
+!i10b 1
+!s100 _eQka=QU>I[`2]Bihae_d3
+I5Ek3N7jVla?PH50KkS_CK3
+R2
+R0
+w1631676234
+8C:/Users/Guoha/Documents/ece550/project/ece550/thirty_two_bit_not.v
+FC:/Users/Guoha/Documents/ece550/project/ece550/thirty_two_bit_not.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Guoha/Documents/ece550/project/ece550/thirty_two_bit_not.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Guoha/Documents/ece550/project/ece550|C:/Users/Guoha/Documents/ece550/project/ece550/thirty_two_bit_not.v|
+!i113 1
+R5
+R6
+vthirty_two_bit_or
+R7
+!i10b 1
+!s100 eUP[4_Mdl3jz:^:5Z`XC70
+Ijm?2YnFejQ>^e56b5FT:E1
+R2
+R0
+w1631676276
+8C:/Users/Guoha/Documents/ece550/project/ece550/thirty_two_bit_or.v
+FC:/Users/Guoha/Documents/ece550/project/ece550/thirty_two_bit_or.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/Guoha/Documents/ece550/project/ece550/thirty_two_bit_or.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Guoha/Documents/ece550/project/ece550|C:/Users/Guoha/Documents/ece550/project/ece550/thirty_two_bit_or.v|
+!i113 1
+R5
+R6
+vthirty_two_bit_SLL
+R7
+!i10b 1
+!s100 e`VIK`fR7lYnRY4^TC27^0
+IX79D8_F3NY2?<6H3z;_LR1
+R2
+R0
+w1632152486
+8C:/Users/Guoha/Documents/ece550/project/ece550/thirty_two_bit_SLL.v
+FC:/Users/Guoha/Documents/ece550/project/ece550/thirty_two_bit_SLL.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/Guoha/Documents/ece550/project/ece550/thirty_two_bit_SLL.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Guoha/Documents/ece550/project/ece550|C:/Users/Guoha/Documents/ece550/project/ece550/thirty_two_bit_SLL.v|
+!i113 1
+R5
+R6
+nthirty_two_bit_@s@l@l
+vthirty_two_bit_splitter
+R1
+!i10b 1
+!s100 Dm`=ndc]B==MZ6okjfP]Y0
+IJ>S6HOjig8ODo^d<E@QSJ0
+R2
+R0
+w1631676253
+8C:/Users/Guoha/Documents/ece550/project/ece550/thirty_two_bit_splitter.v
+FC:/Users/Guoha/Documents/ece550/project/ece550/thirty_two_bit_splitter.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Guoha/Documents/ece550/project/ece550/thirty_two_bit_splitter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Guoha/Documents/ece550/project/ece550|C:/Users/Guoha/Documents/ece550/project/ece550/thirty_two_bit_splitter.v|
+!i113 1
+R5
+R6
+vthirty_two_bit_SRA
+R7
+!i10b 1
+!s100 z>eX[M3TEozY72l`;hkd]0
+IBW5RjT5]B6^_=FeWbZ96H1
+R2
+R0
+w1632199120
+8C:/Users/Guoha/Documents/ece550/project/ece550/thirty_two_bit_SRA.v
+FC:/Users/Guoha/Documents/ece550/project/ece550/thirty_two_bit_SRA.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/Guoha/Documents/ece550/project/ece550/thirty_two_bit_SRA.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Guoha/Documents/ece550/project/ece550|C:/Users/Guoha/Documents/ece550/project/ece550/thirty_two_bit_SRA.v|
+!i113 1
+R5
+R6
+nthirty_two_bit_@s@r@a
+vthirty_two_bit_two_one_mux
+R7
+!i10b 1
+!s100 z:DcCZePCiDGaIOFmGREj2
+IB451@f@Jz[ZVCJR4<2]kE3
+R2
+R0
+w1631676268
+8C:/Users/Guoha/Documents/ece550/project/ece550/thirty_two_bit_two_one_mux.v
+FC:/Users/Guoha/Documents/ece550/project/ece550/thirty_two_bit_two_one_mux.v
+L0 2
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/Guoha/Documents/ece550/project/ece550/thirty_two_bit_two_one_mux.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Guoha/Documents/ece550/project/ece550|C:/Users/Guoha/Documents/ece550/project/ece550/thirty_two_bit_two_one_mux.v|
+!i113 1
+R5
+R6
