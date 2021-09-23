@@ -1,2 +1,0 @@
-Info (10281): Verilog HDL Declaration information at alu.v(5): object "isNotEqual" differs only in case from object "isnotequal" in the same scope File: C:/Users/Guoha/Documents/ece550/project/ece550/alu.v Line: 5
-Info (10281): Verilog HDL Declaration information at alu.v(5): object "isLessThan" differs only in case from object "islessthan" in the same scope File: C:/Users/Guoha/Documents/ece550/project/ece550/alu.v Line: 5
